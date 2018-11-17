@@ -1,0 +1,40 @@
+form ul{
+	padding-left: 250px;
+	padding-right: 500px;
+}
+
+form li{
+	list-style: none;
+	margin-bottom: 20px;	
+}
+
+label{
+	display: block;
+	font-size: 20px;
+}
+
+input{
+	height: 30px;
+}
+
+
+textarea{
+	width: 400px;
+	height: 200px;
+}
+
+.wrap{
+	width: auto;
+	height: auto;
+}
+
+h3{
+	font-size: 40px;
+	text-align: center;
+	margin-top: 20px;
+}
+
+a{
+	text-decoration: none;
+	font-style: italic;
+}

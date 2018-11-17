@@ -1,0 +1,58 @@
+img{
+	width: 300px;
+	height: 100px;
+	padding-top: 30px;
+}
+
+body{
+	padding-left: 200px;
+	padding-right: 200px;
+	font-family: all;
+	background-color: #d8d8d8;
+	}
+
+li{
+	display: inline;
+	padding-right: 40px;
+}
+
+ul a{
+	text-decoration: none;
+	font-size: 20px;
+	font-family: arial black;
+	color: white;
+}
+
+ul a:hover{
+	color: black;
+	font-style: italic;
+}
+
+h1{
+	color: red;
+	font-style: italic;
+	font-size: 40px;
+	text-align: center;
+	margin-top: -80px;
+	margin-bottom: 80px;
+}
+
+table{
+	width: auto;
+}
+
+footer{
+	font-size: 20px;
+	text-align: center;
+}
+
+.wrap{
+	width: auto;
+	height: auto;
+}
+
+
+a{
+	text-decoration: none;
+	font-style: italic;
+}
